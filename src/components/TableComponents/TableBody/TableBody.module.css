@@ -1,0 +1,22 @@
+.table > table {
+    width: 100%;
+    border: none;
+}
+
+thead {
+    background: #606060;
+    color: white;
+}
+
+.darkRow {
+    background: #d5d5d5;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+td > a {
+    color: black;
+}

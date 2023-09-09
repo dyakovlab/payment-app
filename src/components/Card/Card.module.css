@@ -1,0 +1,22 @@
+.card {
+    border: #606060 solid 2px;
+    margin: 22px;
+    padding: 22px;
+}
+
+.cardRow {
+    display: flex;
+}
+
+.cardRow > div {
+    margin-right: 12px;
+}
+
+.cardRow > div > a {
+    color: black;
+}
+
+.cardRowTitle {
+    font-weight: bold;
+}
+

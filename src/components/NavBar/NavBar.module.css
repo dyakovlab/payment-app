@@ -1,0 +1,16 @@
+.selected {
+    background: #919191;
+    color: white;
+}
+
+.menu {
+    padding-top: 69px;
+    width: 250px;
+    color: black;
+    background: #d4d4d4;
+}
+
+.menu > a > div {
+    padding: 16px;
+    color: black;
+}

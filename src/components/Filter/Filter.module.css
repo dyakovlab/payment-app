@@ -1,0 +1,11 @@
+.filter {
+    border: #606060 solid 2px;
+    margin: 22px;
+    padding: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.filterLabel {
+    margin-bottom: 22px;
+}

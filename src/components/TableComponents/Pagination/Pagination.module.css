@@ -1,0 +1,19 @@
+.pagination {
+    display: flex;
+    margin: 12px;
+    justify-content: center;
+}
+
+.paginationButton {
+    min-width: 21px;
+    padding: 6px;
+    margin: 6px;
+    background: #d5d5d5;
+    cursor: pointer;
+}
+
+.paginationButtonSelected {
+    background: #606060;
+    color: white;
+    cursor: not-allowed;
+}

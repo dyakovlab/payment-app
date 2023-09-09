@@ -1,0 +1,5 @@
+export const LOGIN = 'LOGIN';
+export const SET_CARDS = 'SET_CARDS';
+export const SET_TRANSACTIONS = 'SET_TRANSACTIONS';
+export const SET_CARD_FILTER = 'SET_CARD_FILTER';
+export const SET_TRANSACTIONS_FILTER = 'SET_TRANSACTIONS_FILTER';

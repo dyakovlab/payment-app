@@ -1,0 +1,8 @@
+.breadcrumbs {
+    background: #606060;
+    display: flex;
+}
+
+.breadcrumbs > div > div, a {
+    color: white;
+}
